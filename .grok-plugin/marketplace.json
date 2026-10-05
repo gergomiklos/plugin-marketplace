@@ -403,7 +403,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/gergomiklos/nomac-plugin.git",
-        "sha": "930adfce7bfff724e39c76f1db9e91dd3c436b2f"
+        "sha": "708aa8e1ae022d1851e1f034da9e6f47535d627a"
       },
       "homepage": "https://nomac.app",
       "keywords": ["nomac", "nomac cloud mac", "nomac mac"],

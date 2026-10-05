@@ -605,8 +605,8 @@
       }
     },
     "nomac": {
-      "sha": "930adfce7bfff724e39c76f1db9e91dd3c436b2f",
-      "version": "1.0.0",
+      "sha": "708aa8e1ae022d1851e1f034da9e6f47535d627a",
+      "version": "1.0.1",
       "components": {
         "mcpServers": [
           {
